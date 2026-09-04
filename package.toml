@@ -1,0 +1,8 @@
+[dependencies]
+# CASE 1: FUNKTIONIERT
+B = { git = "https://github.com/adrenalingod/diamond-problem-B.git", version = "1.0.0" }
+C = { git = "https://github.com/adrenalingod/diamond-problem-C.git", version = "2.4.0" }
+
+# CASE 2: KONFLIKT (zum Testen einkommentieren, obige zwei Zeilen auskommentieren)
+# B = { git = "https://github.com/adrenalingod/diamond-problem-B.git", version = "1.1.0" }
+# C = { git = "https://github.com/adrenalingod/diamond-problem-C.git", version = "3.0.0" }

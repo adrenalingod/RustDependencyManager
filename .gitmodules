@@ -1,0 +1,9 @@
+[submodule "Test/DiamondProblem/D"]
+	path = Test/DiamondProblem/D
+	url = https://github.com/adrenalingod/diamond-problem-D.git
+[submodule "Test/DiamondProblem/B"]
+	path = Test/DiamondProblem/B
+	url = https://github.com/adrenalingod/diamond-problem-B.git
+[submodule "Test/DiamondProblem/C"]
+	path = Test/DiamondProblem/C
+	url = https://github.com/adrenalingod/diamond-problem-C.git
